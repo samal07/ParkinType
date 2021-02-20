@@ -11,10 +11,10 @@ from sklearn.metrics import accuracy_score
 from sklearn import metrics
 
 
-st.title("NeuroKey")
+st.title("ParkinKey")
 
 
-st.header("Welcome to NeuroKey! NeuroKey is a python based web app that utilizes machine learning"
+st.header("Welcome to ParkinKey! ParkinKey is a python based web app that utilizes machine learning"
 " and keystroke/typing datasets in order to gauge whether or not there is a presence of Parkinson's disease within an individual.")
 st.header("This app is geared towards clinicians who have already completed these tests on patients and can gain an understanding "
          " based on data whether or not the patient has Parkinson's disease.")
